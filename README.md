@@ -10,7 +10,7 @@ LiftWise is a web service designed to simplify the management of gym memberships
 - **Team name**: Strugas (at I.I.S. "Michele Giua" Cagliari - class 5°A 2024/2025)  
 - **Development start date**: 01/05/2025
 - **Version of analysis**: 0.1
-- **Project status**: in progress
+- **Project status**: closed (development ended)
 
 ## 🧱 System Analysis
 
